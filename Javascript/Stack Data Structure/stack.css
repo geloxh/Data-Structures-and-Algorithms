@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+#stack {
+    margin: 20 px 0;
+}
+
+.stack-item {
+    display: inline-block;
+    padding: 8px 16px;
+    background: #b3e5fc;
+    margin-right: 4px;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background 0.2s;
+}

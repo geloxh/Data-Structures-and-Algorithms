@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+#queue {
+    margin: 20px 0;
+}
+
+.queue-item {
+    display: inline-block;
+    padding: 8px 16px;
+    background: #ffe082;
+    margin-right: 4px;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: background 0.2s;
+}
