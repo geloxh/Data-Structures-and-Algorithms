@@ -8,7 +8,9 @@ A comprehensive collection of data structures and algorithms implementations wit
 Data Structures and Algorithms/
 ├── Java/                    # Java implementations (coming soon)
 ├── Javascript/              # JavaScript implementations with web UI
+│   ├── Binary Search Algorithm/
 │   ├── Bubble Sort Algorithm/
+│   ├── Hash Table (Map)/
 │   ├── Linked List Implementation/
 │   ├── Queue Data Structure/
 │   └── Stack Data Structure/
@@ -26,10 +28,12 @@ Each JavaScript implementation includes:
 
 | Data Structure/Algorithm | Description | Files |
 |-------------------------|-------------|-------|
-| **Stack** | LIFO (Last In, First Out) data structure | `stack.html`, `stack.css`, `stack.js` |
-| **Queue** | FIFO (First In, First Out) data structure | `queue.html`, `queue.css`, `queue.js` |
-| **Linked List** | Dynamic linear data structure | `linkedlist.html`, `linkedlist.css`, `linkedlist.js` |
+| **Binary Search** | Efficient search algorithm for sorted arrays | `binarysearch.html`, `binarysearch.css`, `binarysearch.js` |
 | **Bubble Sort** | Simple comparison-based sorting algorithm | `bubblesort.html`, `bubblesort.css`, `bubblesort.js` |
+| **Hash Table** | Key-value pair data structure with O(1) access | `hashtable.html`, `hashtable.css`, `hashtable.js` |
+| **Linked List** | Dynamic linear data structure | `linkedlist.html`, `linkedlist.css`, `linkedlist.js` |
+| **Queue** | FIFO (First In, First Out) data structure | `queue.html`, `queue.css`, `queue.js` |
+| **Stack** | LIFO (Last In, First Out) data structure | `stack.html`, `stack.css`, `stack.js` |
 
 ## 🎯 How to Use
 

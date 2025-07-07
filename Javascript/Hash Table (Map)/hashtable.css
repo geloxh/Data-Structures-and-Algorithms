@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+}
+
+#hashtable {
+    margin-top: 15px;
+}
+
+.map-item {
+    background: #fff176;
+    padding: 7px 14px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    display: inline-block;
+    font-weight: bold;
+}

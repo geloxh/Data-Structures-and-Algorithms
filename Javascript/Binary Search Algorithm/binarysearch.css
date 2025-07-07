@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+#bsArray {
+    font-weight: bold;
+    color: #3949ab;
+}
+
+#bsResult {
+    font-size: 1.1em;
+    color: #00796b;
+}
