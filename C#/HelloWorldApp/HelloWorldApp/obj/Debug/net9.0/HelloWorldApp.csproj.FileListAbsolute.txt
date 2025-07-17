@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.exe
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.deps.json
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.runtimeconfig.json
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.dll
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.pdb
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.sourcelink.json
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.dll
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\obj\Debug\net9.0\refint\HelloWorldApp.dll
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.pdb
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.genruntimeconfig.cache
+C:\Users\admin\Desktop\IT_Admin\Task\Data-Structures-and-Algorithms\C#\HelloWorldApp\HelloWorldApp\obj\Debug\net9.0\ref\HelloWorldApp.dll
