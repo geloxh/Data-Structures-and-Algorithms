@@ -5,11 +5,7 @@ import TaskInput from "./components/TaskInput";
 import ToDoList from "./components/ToDoList";
 import Controls from "./components/Controls";
 
-const initialTasks = [
-    { id: 1, title: "Learn JavaScript", priority: 2, done: false },
-    { id: 2, title: "Build a To-Do App", priority: 1, done: false },
-    { id: 3, title: "Read about Data Structures", priority: 3, done: false },
-];
+const initialTasks = [];
 
 const undoStack = new Stack();
 const redoStack = new Stack();
@@ -57,13 +53,44 @@ export default function App() {
     const sortedTasks = quickSort(tasks, "priority");
 
     return (
-        <div style = {{
-            maxWidth: 480,
-            margin: "2rem auto",
-            padding: 24,
-            background: "#fafafa",
-            borderRadius: 8,
-            boxShadow: "0 2px 8px rgba(0, 0, 0, 0, 0.06"
-        }}></div>
-    )
-} 
+        <div style={{
+            maxWidth: 560,
+            margin: "4rem auto",
+            padding: "2rem",
+            background: "#ffffff",
+            borderRadius: 16,
+            boxShadow: "0 8px 32px rgba(0, 0, 0, 0.1)"
+        }}>
+            <h1 style={{
+                textAlign: "center",
+                marginBottom: "2.5rem",
+                color: "#1f2937",
+                fontSize: "2.5rem",
+                fontWeight: "bold"
+            }}>
+                Advanced To-Do List
+                </h1>
+
+                <TaskInput onAdd={addTask} />
+
+                <Controls
+                    onUndo={undo}
+                    onRedo={redo}
+                    canUndo={!undoStack.isEmpty()}
+                    canRedo={!redoStack.isEmpty()}
+                    search={search}
+                    setSearch={setSearch}
+                />
+
+                <ToDoList
+                    tasks={sortedTasks}
+                    onToggle={toggleTask}
+                    onDelete={deleteTask}
+                    search={search}
+                />
+                <footer style={{ textAlign: 'center', marginTop: '2rem', color: '#6b7280' }}>
+                    author:geloxh
+                </footer>
+        </div>
+    ) ;
+}
